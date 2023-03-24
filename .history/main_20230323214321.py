@@ -1,8 +1,0 @@
-import discord
-import openai
-
-
-DISCORD_TOKEN = "SEU_TOKEN_DO_DISCORD_AQUI"
-OPENAI_API_KEY = "SUA_CHAVE_API_DO_OPENAI_AQUI"
-openai.api_key = OPENAI_API_KEY
-
